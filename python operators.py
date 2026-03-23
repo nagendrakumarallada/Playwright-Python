@@ -1,6 +1,4 @@
 # Arithmatic Operator
-from ftplib import print_line
-
 x = 150
 y = 15
 z= 25.188
