@@ -1,4 +1,4 @@
-print(len(input("enter name ")))
+print(len(input("Enter name ")))
 
 print(len(input("Enter the Series of Numbers ")))
 
@@ -33,3 +33,13 @@ employee = {
 }
 
 print(employee["name"])
+
+
+txt = "The best things in life are free!"
+print("Cognine" in txt)
+
+txt = "The best things in life are free!"
+if "Cognine" in txt:
+    print("Yes,'free' is present.")
+else:
+    print("No,'free' is present.")
