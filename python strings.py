@@ -24,3 +24,7 @@ for char in text.lower():
     if char in "aeiou":
         unique_vowels.add(char)
 print("Unique vowel count:", len(unique_vowels))
+
+A = "Cognine Technologies"
+print(A[4:])
+print(A[-10:-1])
